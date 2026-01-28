@@ -1,6 +1,6 @@
 import React from 'react'
 import { motion } from 'framer-motion'
-import { Instagram, Music2, MessageCircle, Mail, MapPin, Send } from 'lucide-react'
+import { Instagram, Music2, MessageCircle, MapPin, Send } from 'lucide-react'
 
 const socialLinks = [
     {
